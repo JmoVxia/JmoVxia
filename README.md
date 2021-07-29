@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/JmoVxia/JmoVxia/issues)
 
 
-![JmoVxia's GitHub stats](https://github-readme-stats.vercel.app/api?JmoVxia=anuraghazra&theme=material-palenight&show_icons=true)
+![JmoVxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JmoVxia&theme=material-palenight&show_icons=true)
