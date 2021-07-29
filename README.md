@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning something about OC and Swift. And record it [here](https://github.com/JmoVxia/CLDemo).
 - 💬 Ask me about anything [here](https://github.com/JmoVxia/JmoVxia/issues)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JmoVxia&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+
+![JmoVxia's GitHub stats](https://github-readme-stats.vercel.app/api?JmoVxia=anuraghazra&theme=material-palenight&show_icons=true)
